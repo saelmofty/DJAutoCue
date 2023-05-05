@@ -14,5 +14,6 @@ Prerequsites:
     -> 3 for HOTCUE C, SKIP 8 bars
     -> 4 for HOTCUE D, SKIP 8 bars
     (can configure the amount of bars to skip & number of CUE points)
+    
 4. ) Load next track, repeat
 5. ) Add more info

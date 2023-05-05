@@ -1,3 +1,5 @@
+import keyboard
+import time
 '''
 Rekordbox DJ Auto Cue Script 
 Automatically place a cue point based on configurable parameters
@@ -19,3 +21,23 @@ Prerequsites:
 5. ) Add more info
 
 '''
+
+if __name__ == "__main__":
+
+    # Press escape to start the script
+    keyboard.wait('esc')
+
+    keyboard.press_and_release('h')
+    time.sleep(.5)
+
+    keyboard.press_and_release('e')
+    time.sleep(.5)
+
+    keyboard.press_and_release('l')
+    time.sleep(.5)
+
+    keyboard.press_and_release('l')
+    time.sleep(.5)
+
+    keyboard.press_and_release('o')
+    time.sleep(.5)
