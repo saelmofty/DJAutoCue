@@ -17,4 +17,5 @@ Prerequsites:
     (can configure the amount of bars to skip & number of CUE points)
 4. ) Load next track, repeat
 5. ) Add more info
+
 '''
